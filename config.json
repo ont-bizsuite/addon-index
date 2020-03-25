@@ -7,6 +7,18 @@
       "testIdentifiers": [
         "did:ont:AN5g6gz9EoQ3sCNu7514GEghZurrktCMiH"
       ]
+    },
+    {
+      "owner": "did:ont:APe4yT5B6KnvR7LenkZD6eQGhG52Qrdjuo",
+      "meta": "",
+      "addons": [{
+        "domain": "claim.addon.ont",
+        "image": "405563873263.dkr.ecr.ap-southeast-1.amazonaws.com/launch-image-demo:0.1",
+        "imageProperties": {},
+        "tag": "latest",
+        "url": "option"
+      }],
+      "sig": "0136f604462aef8f173bda4862e24c6821891835b91fb8ee3511faaa77767fe6ce745ce0cf7b9a7c0d676353d3d7f18516f28ac09d330f174b75fe92b33a46ca3b"
     }
   ]
 }
