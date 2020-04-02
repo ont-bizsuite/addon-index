@@ -19,6 +19,18 @@
         "url": "option"
       }],
       "sig": "0136f604462aef8f173bda4862e24c6821891835b91fb8ee3511faaa77767fe6ce745ce0cf7b9a7c0d676353d3d7f18516f28ac09d330f174b75fe92b33a46ca3b"
+    },
+    {
+      "owner": "did:ont:AVnHVsduMWZW4V2M11wH2owgVgG3paFLvT",
+      "meta": "",
+      "addons": [{
+        "domain": "witnessTest001.addon.ont",
+        "image": "https://hub.docker.com/repository/docker/carltraveler/witnessv0:latest",
+        "imageProperties": {},
+        "tag": "latest",
+        "url": "option"
+      }],
+      "sig": "01dbcc17995c7e9c072c15b2a21032b8aee62fc0f7b0240ceeeb3b547bc5a03afc2686ac81c166b4438ecd06cef43d9dca9694a9274962e1bd89f532d7557d9b96"
     }
   ]
 }
