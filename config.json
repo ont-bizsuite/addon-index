@@ -31,6 +31,18 @@
         "url": "option"
       }],
       "sig": "01dbcc17995c7e9c072c15b2a21032b8aee62fc0f7b0240ceeeb3b547bc5a03afc2686ac81c166b4438ecd06cef43d9dca9694a9274962e1bd89f532d7557d9b96"
+    },
+    {
+      "owner": "did:ont:APe4yT5B6KnvR7LenkZD6eQGhG52Qrdjuo",
+      "meta": "",
+      "addons": [{
+        "domain": "claim.addon.ont",
+        "image": "405563873263.dkr.ecr.ap-southeast-1.amazonaws.com/launch-image-demo:0.2",
+        "imageProperties": {},
+        "tag": "latest",
+        "url": "option"
+      }],
+      "sig": "01924b5236fece6a84497f81f01b207309cb856256de44d5c96c6b02d0fb17aeb1d6a9b13e5ff433c721e0841f1f1627d78afa00563230e71f10795b577ed4284a"
     }
   ]
 }
