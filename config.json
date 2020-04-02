@@ -43,6 +43,19 @@
         "url": "option"
       }],
       "sig": "01924b5236fece6a84497f81f01b207309cb856256de44d5c96c6b02d0fb17aeb1d6a9b13e5ff433c721e0841f1f1627d78afa00563230e71f10795b577ed4284a"
+    },
+    {
+      "owner": "did:ont:APe4yT5B6KnvR7LenkZD6eQGhG52Qrdjuo",
+      "meta": "",
+      "addons": [{
+        "domain": "claim.addon.ont",
+        "image": "405563873263.dkr.ecr.ap-southeast-1.amazonaws.com/launch-image-demo:0.3",
+        "imageProperties": {},
+        "tag": "latest",
+        "url": "option"
+      }],
+      "sig": "0142b2caccadae1f3d1635f6092998cd51e24f16051b39c4a2cb7f93a48fcf1ac57ffa5de498c4f561cb2cb0b60851b3d8d6dbde8249e09f529a105b0994978f68"
     }
+
   ]
 }
