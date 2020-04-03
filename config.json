@@ -67,6 +67,18 @@
         "url": "option"
       }],
       "sig": "0142b2caccadae1f3d1635f6092998cd51e24f16051b39c4a2cb7f93a48fcf1ac57ffa5de498c4f561cb2cb0b60851b3d8d6dbde8249e09f529a105b0994978f68"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "meta": "",
+      "addons": [{
+        "domain": "witnessTest001.addon.ont",
+        "image": "carltraveler/witness_server:v0",
+        "imageProperties": {},
+        "tag": "latest",
+        "url": "option"
+      }],
+      "sig": "01fc93fd86c98341201e80a94791bcbe08db4a5fdabd19cd4a7862c5153b9a2d4a7cda3200ec2ddb106910abfea8626490b9fc7d78c9e76f3cbf1aad83db68f3f7"
     }
   ]
 }
