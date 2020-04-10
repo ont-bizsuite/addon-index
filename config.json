@@ -93,6 +93,20 @@
         "url": "option"
       }],
       "sig": "01d6a51241d9f117afbb67bd31a7bae483a9547e7873d7b7713b4027386e4172c3a4de5e52d41efeb966b68257213b8a1ae45a45a856f381a91275800da50ac8ec"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "meta": "",
+      "addons": [{
+        "domain": "witnessTest001.addon.ont",
+        "image": "carltraveler/witness_server:v0",
+        "runtimeImage": "carltraveler/witness_runtimev0:v3",
+        "official": true,
+        "imageProperties": {},
+        "tag": "latest",
+        "url": "option"
+      }],
+      "sig": "01919b853d07be14ccd253b43d70b6792f71d7261b40c92bf0fd1bcfc5abff3b1d3c1e73ed048db583a85616aa6876aa669b3f238a8a20d20792b4dc55b7d1146f"
     }
   ]
 }
