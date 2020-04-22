@@ -163,6 +163,17 @@
         "url": "option"
       }],
       "sig": "011178e17c535f087b2657e9cba05974af4baa90eb77f3db5559198b4cab7359d947bc06d3a7ea242cd59e83597e5fba5af5a096488ba99230a6447215d5e7dafe"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "meta": "",
+      "addons": [{
+        "name": "rongyi",
+        "configImage": "reg.qiniu.com/ry/hellohttp:withhost",
+        "runtimeImage": "",
+        "official": true
+      }],
+      "sig": "017c736f66fd3cbc2aeb5403fa9a25b73c139227be74278c777961a42eae4120537a6b3eede975c688234378954b466ee8dad99b5d1269b9060035ebfd44a1b55d"
     }
   ]
 }
