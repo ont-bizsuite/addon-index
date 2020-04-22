@@ -174,6 +174,16 @@
         "official": true
       }],
       "sig": "017c736f66fd3cbc2aeb5403fa9a25b73c139227be74278c777961a42eae4120537a6b3eede975c688234378954b466ee8dad99b5d1269b9060035ebfd44a1b55d"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "addons": [{
+        "name": "rongyi2",
+        "configImage": "carltraveler/witness_server:v0",
+        "runtimeImage": "reg.qiniu.com/ry/hellohttp:withhost",
+        "official": true
+      }],
+      "sig": "0182f83404ce969ed2ea56d890a6b09f1dfdc66af94c99bee9db039f28986247962ddc6458645c633e8f6396c05d1fd2b6ed28038f1c194f779603ed785653ded7"
     }
   ]
 }
