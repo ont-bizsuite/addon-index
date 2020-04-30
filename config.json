@@ -194,6 +194,16 @@
         "official": true
       }],
       "sig": "014b4d32840fba10e79923c27b991d4f3ff91d0ca65bca127a147c463b982eb45da6c0fc6bd4fe0595490f0a92bf43b0ecb38616b9aa0c01fd110ee164995222d2"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "addons": [{
+        "name": "rongyi3",
+        "configImage": "carltraveler/witness_configv0:v1",
+        "runtimeImage": "carltraveler/witnessv1:v0",
+        "official": true
+      }],
+      "sig": "015ceddb409535e5738c9fbc8d37f7ccd0f0f14efddb742ef16e1fa49aa7e09eaab837d84039e446bd9bba1b96e64239738233be28494991fd47e9c23718106e30"
     }
   ]
 }
