@@ -7,26 +7,6 @@
       "testIdentifiers": [
         "did:ont:AN5g6gz9EoQ3sCNu7514GEghZurrktCMiH"
       ]
-    },
-    {
-      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
-      "addons": [{
-        "name": "demo",
-        "configImage": "carltraveler/witness_configv0:v1",
-        "runtimeImage": "carltraveler/witnessv1:v0",
-        "official": true
-      }],
-      "sig": "015ceddb409535e5738c9fbc8d37f7ccd0f0f14efddb742ef16e1fa49aa7e09eaab837d84039e446bd9bba1b96e64239738233be28494991fd47e9c23718106e30"
-    },
-    {
-      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
-      "addons": [{
-        "name": "demov2",
-        "configImage": "carltraveler/witness_configv0:v2",
-        "runtimeImage": "carltraveler/witnessv1:v6",
-        "official": true
-      }],
-      "sig": "01ef8dc669d9ee5886bb5ee1df85a7e69ceaf56a3682a7b1d4ff3fae4b2e04208666c8da55602833f9deca717d7dbf19c4893f8c03b2dd4eb78d8adb0eda09fc2c"
     }
   ]
 }
