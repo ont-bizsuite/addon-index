@@ -27,6 +27,18 @@
         "official": true
       }],
       "sig": "013290d26a694edc361008de7879783f1700cf98b01b729cdbef388176ba135e62e0d6a85d2a11744903a270353d2cdf514341f5e12daac54506f8095316f49126"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "addons": [
+        {
+          "name": "triones-node",
+          "configImage": "405563873263.dkr.ecr.ap-southeast-1.amazonaws.com/addon/triones-node-config:1.8.0",
+          "runtimeImage": "sqrongyi/ontology:v1.10.0test3",
+          "official": false,
+          "subStep": true
+        }],
+      "sig": "0156b6a22d41a36812b8d2bd21c191e07313d2cf0c495085fbdb028b1e83a0b264c010bf4ed93d9b0447000333f1557ca940ab00bdfb5b6f3c98edd8b6072974f5"
     }
   ]
 }
